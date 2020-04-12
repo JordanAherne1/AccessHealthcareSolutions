@@ -1,14 +1,14 @@
 ---
 deployment:
-    tasks:
-    - export DEPLOYPATH=/home/accesshe/public_html/
-    - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp accessable-bathrooms.html $DEPLOYPATH
-    - /bin/cp garage-conversions.html $DEPLOYPATH
-    - /bin/cp grants.html $DEPLOYPATH
-    - /bin/cp occupational-therapists.html $DEPLOYPATH
-    - /bin/cp ramps-and-saftey-rails.html $DEPLOYPATH
-    - /bin/cp stairlifts.html $DEPLOYPATH
-    - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R forms $DEPLOYPATH
+ tasks:
+ - export DEPLOYPATH=/home/accesshe/public_html/
+ - /bin/cp index.html $DEPLOYPATH
+ - /bin/cp accessable-bathrooms.html $DEPLOYPATH
+ - /bin/cp garage-conversions.html $DEPLOYPATH
+ - /bin/cp grants.html $DEPLOYPATH
+ - /bin/cp occupational-therapists.html $DEPLOYPATH
+ - /bin/cp ramps-and-saftey-rails.html $DEPLOYPATH
+ - /bin/cp stairlifts.html $DEPLOYPATH
+ - /bin/cp -R assets $DEPLOYPATH
+ - /bin/cp -R forms $DEPLOYPATH
     
