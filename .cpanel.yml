@@ -11,4 +11,5 @@ deployment:
  - /bin/cp stairlifts.html $DEPLOYPATH
  - /bin/cp -r assets $DEPLOYPATH
  - /bin/cp -r forms $DEPLOYPATH
+ - /bin/cp google75526bfb14283a69.html $DEPLOYPATH
     

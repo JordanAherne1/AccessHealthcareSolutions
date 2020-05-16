@@ -1014,9 +1014,6 @@ section {
 .Portfolio #portfolio-flters li:last-child {
   margin-right: 0;
 }
-.Portfolio img{
-  transform:rotate(90deg);
-}
 .Portfolio .portfolio-item {
   margin-bottom: 200px;
 }
@@ -1517,7 +1514,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+ 
   color: #656262;
 }
 
